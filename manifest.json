@@ -1,0 +1,46 @@
+{
+  "short_name": "Falcon Scouting",
+  "name": "FRC 3647 Pit/Match Scouting",
+  "icons": [
+    {
+      "src": "AppImages/windows11/LargeTile.scale-100.png",
+      "sizes": "310x310",
+      "type": "image/png"
+    },
+    {
+      "src": "AppImages/windows11/SmallTile.scale-100.png",
+      "sizes": "71x71",
+      "type": "image/png"
+    },
+    {
+      "src": "AppImages/windows11/SplashScreen.scale-100.png",
+      "type": "image/png",
+      "sizes": "620x300"
+    },
+    {
+      "src": "AppImages/windows11/Square44x44Logo.altform-lightunplated_targetsize-16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    }
+
+  ],
+  "start_url": ".",
+  "display": "minimal-ui",
+  "theme_color": "#821c1e",
+  "background_color": "#821c1e",
+  "description": "The Millennium Falcons scouting app allows you to scout in both the pit and during matches in one cohesive experience.",
+  "screenshots": [
+    {
+      "src": "screenshots/homescreen.png",
+      "sizes": "1920x922",
+      "form_factor": "wide",
+      "type": "image/png"
+    },
+    {
+      "src": "screenshots/homescreen-vertical.png",
+      "sizes": "647x900",
+      "form_factor": "narrow",
+      "type": "image/png"
+    }
+  ]
+}
